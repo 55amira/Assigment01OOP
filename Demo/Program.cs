@@ -29,6 +29,35 @@
             //P01.Print(); 
             #endregion
 
+            //OOP : Object Oriented Programing
+
+            Employee E01=new Employee(1,"ahmed",1220);
+
+            //E01.id= 1;
+            //E01.name = "Ahmed";
+            //E01.salary = 121000;
+
+            //Console.WriteLine(E01.id);
+            //Console.WriteLine(E01.name);
+            //Console.WriteLine(E01.salary);
+
+
+           //E01.SetId(1);
+           //E01.SetName("Ahmed");
+           //E01.SetSalary(121000);
+           //
+           //Console.WriteLine(E01.GetId());
+           //Console.WriteLine(E01.GetSalary());
+           //Console.WriteLine(E01.GetName());
+
+            Console.WriteLine(E01);
+
+
+
+
+
+
+
         }
     }
 }
