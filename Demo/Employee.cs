@@ -58,6 +58,51 @@ namespace Demo
         //} 
         #endregion
 
+        //public int Id
+        //{
+        //    set
+        //    {
+        //        id = value;
+        //    }
+
+        //    get
+        //    {
+        //        return id;
+        //    }
+            
+        //}
+
+        //public string Name
+        //{ 
+        //  set
+        //    {
+        //        name = value;
+        //    }
+        //    get
+        //    {
+        //        return name;
+        //    }
+        //}
+
+        //public double Salary
+        //{
+        //    set
+        //    {
+        //        if(value > 0)
+        //            salary = value; 
+        //    }
+        //    get
+        //    { 
+        //      return salary;
+        //    }
+
+            
+        //}
+
+        //public string Address { set; get; }
+
+
+
     }
 }
 
