@@ -78,6 +78,10 @@
             //phoneBook["Ali"] = 2222;
 
             //Console.WriteLine(phoneBook["Ali"]);
+
+            Car C01 = new Car(1,"xcx",236);
+            
+
         }
     }
 }
